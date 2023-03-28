@@ -14,6 +14,7 @@ format:
     background-transition: fade
     footer: "Formation FOCUS 2022-2024 - HEP-VS et partenaires"
     scrollable: true
+    smaller: true
 
 ---
 
@@ -36,6 +37,8 @@ format:
 ![timeline](img/timline_v1_focus_fin_session_1.png)
 
 ## Bilan session 1 {background-color="white" background-image="img/fusee.jpeg" background-size="absolute" background-opacity="0.5"}
+
+::: {.panel-tabset}
 
 #### Chiffres-clés
 
@@ -65,9 +68,11 @@ format:
 
     - ...
 
-- Conditions pour délivrer les attestations
+#### Conditions pour délivrer les attestations
 
-- Mutualisation des ressources : comment envisager la suite de FOCUS ?
+#### Mutualisation des ressources : comment envisager la suite de FOCUS ?
+
+:::
 
 ## Bilan intermédiaire session 2 (chiffres-clés) {background-color="black" background-image="img/fusee.jpeg" background-size="absolute" background-opacity="0.5"}
 

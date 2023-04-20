@@ -5,38 +5,39 @@ subtitle: Rencontre OES - HEP-VS (7)
 date: "27 April 2023"
 lang: fr
 title-slide-attributes: 
-  data-background-image: img/fusee.jpeg
+  data-background-image: img/rocket_light.jpg
   data-background-size: absolute
 format:
   revealjs:
-    incremental: true
+    incremental: false
     transition: slide
     background-transition: fade
     footer: "Formation FOCUS 2022-2024 - HEP-VS et partenaires"
     scrollable: true
-    smaller: true
+    smaller: false
 
 ---
 
 
-## Ordre du jour {background-color="white" background-image="img/fusee.jpeg" background-size="absolute" background-opacity="0.5"}
+## Ordre du jour {background-color="white" background-image="img/rocket_light.jpg" background-size="absolute" background-opacity="0.3"}
 
 - Accueil
-- Bilan session 1 (chiffres-clés, retour qualité, remédiations apportées)
-
-    - Conditions pour délivrer les attestations
-    - Mutualisation des ressources : comment envisager la suite de FOCUS ?
-    
-- Bilan intermédiaire session 2 (chiffres-clés)
-- Etat d'avancement des préparatifs session 3
+- Session 1 - Bilan final
+- Session 2 - Bilan intermédiaire
+- Session 3 - État d'avancement
 - Après FOCUS ?
 - Divers
 
-## Bilan session 1 {background-color="white" background-image="img/fusee.jpeg" background-size="absolute" background-opacity="0.5"}
 
-![timeline](img/timline_v1_focus_fin_session_1.png)
+## Accueil {background-color="white" background-image="img/rocket_light.jpg" background-size="absolute" background-opacity="0.3"}
 
-## Bilan session 1 {background-color="white" background-image="img/fusee.jpeg" background-size="absolute" background-opacity="0.5"}
+##  {background-color="white" background-image="img/rocket_light.jpg" background-size="absolute" background-opacity="0.3"}
+
+
+![](img/timline_v1_focus_fin_session_1.png)
+
+
+## Session 1 {background-color="white" background-image="img/rocket_light.jpg" background-size="absolute" background-opacity="0.3"}
 
 ::: {.panel-tabset}
 
@@ -56,7 +57,7 @@ format:
 - Formulaire :
 - éléments clés du retour : ...
 
-#### Remédiations apportées
+#### Remédiations
 
 - En cours de session 1 (rappel)
 
@@ -68,13 +69,14 @@ format:
 
     - ...
 
-#### Conditions pour délivrer les attestations
+#### Clôture
 
-#### Mutualisation des ressources : comment envisager la suite de FOCUS ?
-
+Conditions pour délivrer les attestations
+lister
 :::
 
-## Bilan intermédiaire session 2 (chiffres-clés) {background-color="black" background-image="img/fusee.jpeg" background-size="absolute" background-opacity="0.5"}
+
+## Session 2 {background-color="white" background-image="img/rocket_light.jpg" background-size="absolute" background-opacity="0.3"}
 
 #### Chiffres-clés
 
@@ -82,7 +84,7 @@ format:
 - dont allègements ou équivalences :
 - candidat·es pour l'attestation :
 
-## Etat d'avancement des préparatifs session 3 {background-color="black" background-image="img/fusee.jpeg" background-size="absolute" background-opacity="0.5"}
+## Session 3 {background-color="white" background-image="img/rocket_light.jpg" background-size="absolute" background-opacity="0.3"}
 
 - Cours 14.XX
 - Ouverture au 1er mai 2023
@@ -90,16 +92,23 @@ format:
 
     - Conférences en bimodal
     - capacité et nombre de vignettes cliniques augmentés
-    
-## Après FOCUS ? {background-color="black" background-image="img/fusee.jpeg" background-size="absolute" background-opacity="0.5"}
 
-- ES engagé·es dès août 2024 et autres cas particuliers --> MAES
-- Culture de la mutualisation
+
+
+## Après FOCUS ? {background-color="white" background-image="img/rocket_light.jpg" background-size="absolute" background-opacity="0.3"}
+
+### Mutualisation des ressources
+
+- Délivrables FOCUS
+- Communautés de pratiques
+
+
+### Et le futur ?
+
+- ES engagé·es dès août 2024 et autres cas particuliers --> MAES ou/et FCe
+
  
-    - Délivrables FOCUS
-    - Communautés de pratiques
-
-## Divers {background-color="black" background-image="img/fusee.jpeg" background-size="absolute" background-opacity="0.5"}
+## Divers {background-color="white" background-image="img/rocket_light.jpg" background-size="absolute" background-opacity="0.3"}
 
 - R&D
 

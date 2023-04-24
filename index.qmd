@@ -39,25 +39,118 @@ format:
 
 ## Session 1 {background-color="white" background-image="img/rocket_light.jpg" background-size="absolute" background-opacity="0.3"}
 
+<small>
+
 ::: {.panel-tabset}
 
-#### Chiffres-clés
+#### Chiffres-clés (première agrégation)
 
-- ES inscrit·es (cours 14.13) : 
-- dont allègements ou équivalences :
-- candidat·es pour l'attestation :
-- participant·es ayant rempli le délivrable :
-- nombre de ressources reçues : 
-- nombre de communautés identifiées :
-- situations à clarifier (absences) : 
-- attestations prêtes pour envoi :
+- ES inscrit·es (cours 14.13) : 122
+- dont allègements ou équivalences : 19
+- candidat·es pour l'attestation : 120
+- participant·es ayant rempli le délivrable : 123
+- nombre de ressources reçues : 3
+- nombre de communautés identifiées : 24
+- situations à clarifier (absences) : 1
+- attestations prêtes pour envoi : -
+
+#### Retour sur les contenus - Echanges
+
+Les retours bruts comportent des réflexions et des commentaires sur divers thèmes abordés lors de la formation. Les thèmes les plus fréquemment mentionnés sont les suivants :
+
+- CUA (16 occurrences)
+- fonctions exécutives (15 occurrences)
+- émotions et compétences émotionnelles (6 occurrences)
+- TSA et aspects génétiques du TSA (5 occurrences)
+- évaluation des troubles du comportement (3 occurrences)
+- psychologie positive (3 occurrences)
+- sciences affectives et apprentissages scolaires (3 occurrences)
+- feedback (3 occurrences)
+- régulation des émotions (2 occurrences)
+- jeux symboliques (2 occurrences)
+- entretien motivationnel (1 occurrence)
+- piliers de l'apprentissage de Dehaene (1 occurrence)
+- échelle des compétences éducatives parentales (1 occurrence)
+- protocole d'observation (1 occurrence)
+- modèle de feed-back (1 occurrence)
+- compétences transversales (1 occurrence)
+- microbiote intestinal et cerveau des enfants TSA (1 occurrence)
+- environnement prévisible pour les enfants TSA (1 occurrence)
+- comportements "de remplacement" aux comportements "défis" (1 occurrence)
+- enjeux sensoriels chez les enfants TSA (1 occurrence)
+- entretien motivationnel (1 occurrence)
+- perception, attention et mémoire (1 occurrence)
+- régulation émotionnelle (1 occurrence)
+- difficultés de comportement (1 occurrence)
+- éducation positive (1 occurrence)
+- planification (1 occurrence)
+- API individuel (1 occurrence)
+- VB-MAPP (1 occurrence)
+- escalade comportementale (1 occurrence)
+
+Les commentaires portent sur des pistes et des outils pour améliorer la pratique éducative et soutenir le développement des élèves, en particulier ceux présentant un TSA.
+
+#### Retour sur les contenus - Mise en pratique
+
+
+Résumé des commentaires bruts des participant·es : 
+
+- Les sessions de formation ont permis aux participant·es de rafraîchir leurs connaissances et de découvrir de nouvelles pratiques pour mieux accompagner les élèves, en particulier ceux présentant des troubles du spectre autistique (TSA).
+
+- Les thèmes abordés incluent la gestion des émotions, les fonctions exécutives, la CUA (conception universelle de l'apprentissage), l'entretien motivationnel, le feedback, les projets pour les gestions de crise avec les groupes classes d'adolescents, etc.
+
+- Les participant·es ont pris des initiatives pour appliquer les connaissances acquises, tels que la création d'outils et de matériel pédagogique, la mise en place d'activités différenciées pour rendre les élèves plus autonomes, la réorganisation de l'espace de la classe, etc.
+
+Occurrences :
+
+- Gestion des émotions: 10
+- Fonctions exécutives: 8
+- CUA: 5
+- Entretien motivationnel: 2
+- Feedback: 3
+- Projets pour les gestions de crise avec les groupes classes d'adolescents: 2
+
+<!-- Source : Daily Notion du 24 avril 2023 : Jour 429 -->
 
 #### Retour qualité
 
-- Formulaire :
-- éléments clés du retour : ...
+[rapport complet : cliquer ici](https://www.dropbox.com/s/hejnb6xgutix35h/boucle.docx?dl=0)
 
-#### Remédiations
+![](img/1.png)
+
+![](img/2.png)
+
+![](img/3.png)
+
+![](img/4.png)
+
+![](img/5.png)
+
+**Forces - Agrégation en 5 points :**
+
+- La variété des modalités de participation et l'utilisation de Teams enregistrés ont été très appréciées.
+- Les intervenants étaient de grande qualité et intéressants, avec une grande variété d'intervenants différents.
+- Les contenus des conférences et des vignettes cliniques étaient très riches et intéressants.
+- La formation a permis aux enseignants spécialisés de se rencontrer, d'échanger et de consolider leurs acquis, tout en mettant à jour leurs connaissances.
+- Les sujets abordés étaient variés, en lien avec la pratique professionnelle des participants, et pertinents pour améliorer leur pratique et leurs compétences professionnelles.
+
+**Faiblesses - Agrégation en 5 points**
+
+- Beaucoup de théorie et de répétitions de notions déjà vues dans la formation initiale
+- Manque d'outils concrets et pratiques à appliquer dans la pratique
+- Cours peu adaptés à certains profils d'enseignants spécialisés
+- Difficulté à faire des liens avec le travail sur le terrain pour certains thèmes
+- Formation trop lourde en termes de volume horaire
+
+**Pistes  - Agrégation en 5 points**
+
+- Proposer des outils concrets et des ressources facilement applicables en classe
+- Mieux coordonner les interventions des intervenants pour éviter les redites
+- Permettre aux enseignants de choisir les formations qui répondent à leurs besoins
+- Donner les présentations PowerPoint avant les cours
+- Tenir compte du degré d'expérience du public pour adapter le contenu des cours de manière personnalisée
+
+#### Remédiations apportées
 
 - En cours de session 1 (rappel)
 
@@ -71,22 +164,26 @@ format:
 
 #### Clôture
 
-Conditions pour délivrer les attestations
-lister
+Conditions pour délivrer les attestations :
+
+- Participation minimale de 80% aux conférences et vignettes (basé sur signature)
+- Retour formulaire de clôture
+
 :::
 
+</small>
 
 ## Session 2 {background-color="white" background-image="img/rocket_light.jpg" background-size="absolute" background-opacity="0.3"}
 
 #### Chiffres-clés
 
-- ES inscrit·es (cours 14.14) : 
-- dont allègements ou équivalences :
-- candidat·es pour l'attestation :
+- ES inscrit·es (cours 14.14) : 96
+- dont allègements ou équivalences : 3-5
+- candidat·es pour l'attestation : -
 
 ## Session 3 {background-color="white" background-image="img/rocket_light.jpg" background-size="absolute" background-opacity="0.3"}
 
-- Cours 14.XX
+- Cours 14.21
 - Ouverture au 1er mai 2023
 - Préparation de la flexibilisation du dispositif - scénarios :
 
@@ -105,7 +202,7 @@ lister
 
 ### Et le futur ?
 
-- ES engagé·es dès août 2024 et autres cas particuliers --> MAES ou/et FCe
+- ES engagé·es dès août 2024 et autres cas particuliers --> MAES ou/et FCe (contacts formels - Anne-Françoise Martinon)
 
  
 ## Divers {background-color="white" background-image="img/rocket_light.jpg" background-size="absolute" background-opacity="0.3"}
